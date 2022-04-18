@@ -1,0 +1,23 @@
+#ignoring the cached files
+__pycache__/*
+*.py[cod]
+*.pyc
+#ignoring the local settings file
+luna_backend/local_settings.py
+#ignoring intellij idea file
+.idea/*
+#ignoring the vertual environment
+venv
+#ignoring the log file
+main.log*
+#ignoring media
+media
+.env3/
+env/
+static
+media
+Extras/
+hasan-temp-key.pem
+# manage.py
+*.DS_Store
+.env
